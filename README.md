@@ -44,7 +44,7 @@ My Diamond Grid Encryption System is a modern C++ console application that encry
 
 ## Demonstration
 
-![](resources/demonstration.mp4)
+https://github.com/user-attachments/assets/a1f88473-ffd9-4b6a-998c-271cb95b6e55
 
 ## Program Structure
 
